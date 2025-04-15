@@ -28,4 +28,5 @@ public class ScreenmachApplication implements CommandLineRunner {
 		System.out.println(dados);
 		//em 02/04/2025 parei no minuto 11:00
 	}
+
 }

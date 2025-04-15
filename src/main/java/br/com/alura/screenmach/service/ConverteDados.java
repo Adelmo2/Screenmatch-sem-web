@@ -4,7 +4,8 @@ package br.com.alura.screenmach.service;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
-public class ConverteDados implements IConverteDados{
+//public class ConverteDados implements iConverteDados {
+public class ConverteDados implements iConverteDados {
     private ObjectMapper mapper =  new ObjectMapper();
 
     @Override
